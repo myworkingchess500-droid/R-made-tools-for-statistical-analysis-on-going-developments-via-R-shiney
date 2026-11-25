@@ -1,2 +1,3 @@
 # R-made-tools-for-statistical-analysis-on-going-developments-via-R-shiney
 # this is my first project in r shiny what it does is finds missing values and runs behind it a multivariate and univariate system automatically calculation you can import and export the files though the images you have to manually export though this has a feature to remove duplicates and fill missing values via mcar, mnar, mar types using regression, random forest and etc... tests within the app its also limited to 8 max column variables to maximize speed in its calculation perfect for fast analysis and or if your data is missing values 
+#the other are ordinal makers and or coding sysytems as it makes it easier to anazyle data that way if need be for manual analysis
